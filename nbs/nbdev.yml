@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "PiS5"
+  site-url: "https://pralinor.github.io/PiS5"
+  description: "The next generation gamaing console is here... powered by the Raspberry pi XD"
+  repo-branch: main
+  repo-url: "https://github.com/pralinor/PiS5"
